@@ -1,0 +1,125 @@
+Acronyms-
+
+    IaaS: Infrastructure as a Service
+    PaaS: Platform as a Service
+    SaaS: Software as a Service
+    IaC - Infrastructure as Code
+    VM: Virtual Machine
+    VMSS: Virtual Machine Scale Set
+    VM SKU: Virtual Machine Stock Keeping Unit
+    CDN: Content Delivery Network
+    SLA: Service Level Agreement
+    API: Application Programming Interface
+    SKU: Stock Keeping Unit
+    DNS: Domain Name System
+    SSH: Secure Shell
+    FTP: File Transfer Protocol
+    KV: Key Vault
+    VNET: Virtual Network
+    NSG: Network Security Group
+    ILB: Internal Load Balancer
+    RDP - Remote Desktop Protocol
+
+Compute Abbreviations:
+
+    AKS: Azure Kubernetes Service
+    ACI: Azure Container Instances
+    App Service: Azure App Service
+    AVS: Azure Virtual Desktop
+    EBS - Elastic Block Storage
+    ECS - Elastic Container Service
+    ACS - Azure Container Service
+    EKS - Elastic Kubernetes Service
+
+Storage Abbreviations:
+
+    Blob Storage: Azure Binary Large Object.
+    File Storage: Azure File Storage
+    Disc Storage: Azure Managed Disks
+    ADLS: Azure Data Lake Storage
+    ASI: Azure Static Websites
+    ADF - Azure Data Factory
+    AFS - Azure File Sync
+    DWH - Data Warehouse
+    EFS - Elastic File System
+    ETL - Extract, Transform, Load
+
+Database Abbreviations:
+
+    SQL Database: Azure SQL Database (Structured Query Language)
+    Cosmos DB: Azure Cosmos Database 
+    MySQL: My Structured Query Language for Azure Database
+    RDBMS - Relational Database Management System
+
+Networking Abbreviations:
+
+    HTTP - Hypertext Transfer Protocol
+    HTTPS - Hypertext Transfer Protocol Secure
+    VNET: Virtual Network 
+    NSG: Network Security Group 
+    ILB: Internal Load Balancer 
+    VPN: Virtual Private Network
+    NAT - Network Address Translation
+    NVA - Network Virtual Appliance
+    NAS - Network-Attached Storage
+    CNI - Container Network Interface
+    IP - Internet Protocol
+
+Security Abbreviations:
+
+    RBAC: Role-Based Access Control
+    MFA: Multi-Factor Authentication
+    OAuth - Open Authorization
+    OSS - Open Source Software
+    REST - Representational State Transfer
+    SAML - Security Assertion Markup Language
+    DDoS - Distributed Denial of Service
+    SSO - Single Sign-On
+    SSL - Secure Sockets Layer
+    ATP - Advanced Threat Protection
+    AIP - Azure Information Protection
+
+Management Abbreviations:
+
+    ARM: Azure Resource Manager 
+    Azure Portal: Web-based interface for managing Azure resources
+    IAM - Identity and Access Management
+    PIM- Privileged Identity Management
+    AAD - Azure Active Directory
+    OMS - Operations Management Suite
+
+Regulation Abbreviations:
+
+    GDPR - General Data Protection Regulation
+    HIPAA - Health Insurance Portability and Accountability Act
+    ISO - International Organization for Standardization
+
+Other Microsoft Azure abbreviations:
+
+    AI - Artificial Intelligence
+    AIOps - Artificial Intelligence for IT Operations
+    AMQP - Advanced Message Queuing Protocol
+    APIM - Azure API Management
+    ATA - Advanced Threat Analytics
+    ASR - Azure Site Recovery
+    AZ - Azure
+    BCDR - Business Continuity and Disaster Recovery
+    CMK - Customer Managed Key
+    CI/CD - Continuous Integration/Continuous Deployment
+    CLI - Command-Line Interface
+    CMK - Customer Managed Key
+    CSP - Cloud Solution Provider
+    GA- General Availability 
+    IoT - Internet of Things
+    JSON - JavaScript Object Notation
+    LB - Load Balancer
+    LDAP - Lightweight Directory Access Protocol
+    ML - Machine Learning
+    MSP - Managed Service Provider
+    MSSQL - Microsoft SQL Server
+    NLP - Natural Language Processing
+    SDK - Software Development Kit
+    SRE - Site Reliability Engineering
+    TCO - Total Cost of Ownership
+    WAF - Web Application Firewall
+    WVD - Windows Virtual Desktop
