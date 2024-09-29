@@ -1,24 +1,25 @@
 Acronyms-
 
-    IaaS: Infrastructure as a Service
-    PaaS: Platform as a Service
-    SaaS: Software as a Service
-    IaC - Infrastructure as Code
-    VM: Virtual Machine
-    VMSS: Virtual Machine Scale Set
-    VM SKU: Virtual Machine Stock Keeping Unit
-    CDN: Content Delivery Network
-    SLA: Service Level Agreement
     API: Application Programming Interface
-    SKU: Stock Keeping Unit
+    CDN: Content Delivery Network
     DNS: Domain Name System
-    SSH: Secure Shell
     FTP: File Transfer Protocol
-    KV: Key Vault
-    VNET: Virtual Network
-    NSG: Network Security Group
+    GRS: Geo-Redundant Storage
+    IaaS: Infrastructure as a Service
+    IaC - Infrastructure as Code
     ILB: Internal Load Balancer
+    KV: Key Vault
+    NSG: Network Security Group
+    PaaS: Platform as a Service
     RDP - Remote Desktop Protocol
+    SaaS: Software as a Service
+    SLA: Service Level Agreement
+    SKU: Stock Keeping Unit
+    SSH: Secure Shell
+    VM: Virtual Machine
+    VM SKU: Virtual Machine Stock Keeping Unit
+    VMSS: Virtual Machine Scale Set
+    VNET: Virtual Network
 
 Compute Abbreviations:
 
@@ -34,8 +35,6 @@ Compute Abbreviations:
 Storage Abbreviations:
 
     Blob Storage: Azure Binary Large Object.
-    File Storage: Azure File Storage
-    Disc Storage: Azure Managed Disks
     ADLS: Azure Data Lake Storage
     ASI: Azure Static Websites
     ADF - Azure Data Factory
