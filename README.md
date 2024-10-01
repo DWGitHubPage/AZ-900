@@ -20,5 +20,4 @@
 
 [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/)
 
-
- "text-decoration:green" 
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
