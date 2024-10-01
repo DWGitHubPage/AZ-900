@@ -6,7 +6,6 @@
 
 [MIcrosoft Azure](https://azure.microsoft.com/en-us)
 
-_________________________________________________________________________________________________________
 ## YouTube Video Series
 
 [Adam Marczak AZ-900 Microsoft Azure Fundamentals Free Full Course and Study Guide ](https://marczak.io/az-900/)
