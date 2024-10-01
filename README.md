@@ -4,7 +4,7 @@
 
 [MIcrosoft Azure](https://azure.microsoft.com/en-us)
 
-** YouTube Video Series
+## YouTube Video Series
 _________________________________________________________________________________________________________
 
 
@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 [John Savill AZ-900 Azure Fundamentals Certification Course](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 
-** Blogs
+## Blogs
 _____________________________________________________________________________________________________
 
 [Azure Training Series Blog](https://azure-training.com/azure-administration/) 
