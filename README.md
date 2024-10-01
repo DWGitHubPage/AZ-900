@@ -19,3 +19,6 @@
 [Azure Training Series Blog](https://azure-training.com/azure-administration/) 
 
 [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/)
+
+
+ "text-decoration:green" 
