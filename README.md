@@ -12,7 +12,6 @@
 
 [John Savill AZ-900 Azure Fundamentals Certification Course](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 
-_____________________________________________________________________________________________________
 ## Blogs
 
 [Azure Architecture Blog](https://techcommunity.microsoft.com/t5/azure-architecture-blog/bg-p/AzureArchitectureBlog)
