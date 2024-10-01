@@ -1,4 +1,6 @@
-# AZ-900 Study Materials and other related content.
+# AZ-900 Study Materials and other Azure related content.
+
+## Microsoft Azure
 
 [Microsoft Learn Exam AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
 
