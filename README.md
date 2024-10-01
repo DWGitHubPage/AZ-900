@@ -15,5 +15,3 @@ ________________________________________________________________________________
 ## Blogs
 
 [Azure Training Series Blog](https://azure-training.com/azure-administration/) 
-
-
