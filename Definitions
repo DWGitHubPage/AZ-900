@@ -15,7 +15,8 @@ A physically separate location within an Azure region that provides redundant po
 and is designed to be highly resilient to potential failures.
     
 Azure Active Directory (Azure AD): 
-Azure’s identity and access management service, allowing users to securely manage access to applications, services and resources.
+Azure’s identity and access management service, allowing users to securely manage access to applications, 
+services and resources.
     
 Azure Resource Manager (ARM): 
 The service that allows users to deploy, manage and monitor their Azure resources in a consistent and predictable way.
@@ -32,7 +33,8 @@ A collection of artificial intelligence (AI) services and APIs that allow develo
 such as computer vision and speech recognition, to their applications.
     
 Content Delivery Network (CDN): 
-A network of servers that let you deliver content to users all over the world more quickly through storing content at strategic endpoints.
+A network of servers that let you deliver content to users all over the world more quickly through storing content 
+at strategic endpoints.
     
 Cosmos DB: 
 A globally distributed, multi-model, NoSQL database that boasts infinite scale for multiple APIs, 
@@ -107,7 +109,12 @@ Service that enables you to build, deploy, and manage ML models at scale.
     
 Machine Learning Studio: 
 Web-based tool that provides a visual interface for building, training, and deploying ML models.
-    
+
+Management Group: 
+Azure management groups provide a level of scope above subscriptions. You organize subscriptions into containers called 
+management groups and apply your governance conditions to the management groups. All subscriptions within a management 
+group automatically inherit the conditions applied to the management group.
+
 Marketplace: 
 Online store that provides a range of applications, tools, and services that are designed to work with Azure.
     
@@ -151,13 +158,15 @@ Service Bus:
 Service that allows you to exchange messages between applications and services in a reliable, scalable and secure way.
     
 Service Health: 
-Service that provides notifications and alerts about the availability and performance of your services, as well as guidance on how to resolve any issues.
+Service that provides notifications and alerts about the availability and performance of your services, as well as guidance 
+on how to resolve any issues.
     
 Service Level Agreement (SLA): 
 The agreement that describes Microsoft's commitments for uptime and connectivity. Each Azure service has a specific SLA.
     
 Service Trust Portal: 
-Microsoft website that provides information about the security, privacy, and compliance of Microsoft's online services, including Azure.
+Microsoft website that provides information about the security, privacy, and compliance of Microsoft's online services, 
+including Azure.
     
 SQL Database: 
 Easy to use relational database service that provides a scalable and secure platform for storing and managing data.
@@ -167,6 +176,25 @@ Data warehousing service that allows you to store and analyze large amounts of d
     
 Subnet: 
 A subsection of IP addresses within a virtual network that you can use to segment and isolate network traffic.
+
+Subscription:
+An Azure subscription is a logical container used to provision resources in Azure. It holds the details of all your 
+resources like virtual machines (VMs), databases, and more. When you create an Azure resource like a VM, you identify 
+the subscription it belongs to. As you use the VM, the usage of the VM is aggregated and billed monthly.
+
+Tenant:
+A Tenant refers to a single dedicated and trusted instance of Azure Active Directory and it gets created automatically 
+when you sign up for a Microsoft cloud service subscription. In broader terms, when your organization signs up for cloud 
+service subscription. A tenant, therefore, represents a single organization, identity, or a person.
+
+The Azure AD tenant provides a single place to manage users, groups and their permissions for the applications published 
+in the Azure AD. Azure Active Directory can be used to manage permissions for Office 365, Dynamics 365, and Azure as well. 
+Azure AD can also be used to control access to many other third-party applications registered with Azure AD. To manage the 
+permissions for an application using Azure AD, the application must be registered in Azure Active Directory.
+
+Azure AD Tenants have globally unique names and, therefore, have a unique id (tenant GUID). In general, an Azure AD tenant 
+name ends with ‘onmicrosoft.com’, for example – atcsl.onmicrosoft.com, where ‘atcsl’ may be the name of an individual or 
+an organization. In essence, a single tenant corresponds to a single instance of Azure Active Directory.
     
 Trust Center: 
 Microsoft website that provides information about the security, privacy, and compliance of Azure.
@@ -184,7 +212,8 @@ Virtual Private Network (VPN) Gateway:
 What you need to establish connections between your virtual networks, and between them and on-premise networks.
     
 Well-Architected Framework: 
-Set of best practices and guidelines for designing and operating reliable, secure, efficient, and cost-effective systems in the cloud.
+Set of best practices and guidelines for designing and operating reliable, secure, efficient, and cost-effective systems 
+in the cloud.
 
 Zonal: 
 Refers to a configuration that allows a user to select a specific availability zone for a resource. 
