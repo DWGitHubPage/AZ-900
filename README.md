@@ -5,6 +5,7 @@
 [Microsoft Learn Exam AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
 
 [MIcrosoft Azure](https://azure.microsoft.com/en-us)
+
 _________________________________________________________________________________________________________
 ## YouTube Video Series
 
