@@ -1,14 +1,27 @@
 Acronyms-
 
+    AAD - Azure Active Directory
+    ACI: Azure Container Instances
+    ACS - Azure Container Service
+    AIOps - Artificial Intelligence for IT Operations
+    AIP - Azure Information Protection
+    AKS: Azure Kubernetes Service
+    AMQP - Advanced Message Queuing Protocol
     API: Application Programming Interface
+    APIM - Azure API Management
+    ARM: Azure Resource Manager 
+    ASR - Azure Site Recovery
+    ATA - Advanced Threat Analytics
     CDN: Content Delivery Network
     DNS: Domain Name System
     FTP: File Transfer Protocol
+    GDPR - General Data Protection Regulation
     GRS: Geo-Redundant Storage
     IaaS: Infrastructure as a Service
     IaC - Infrastructure as Code
     ILB: Internal Load Balancer
     KV: Key Vault
+    LDAP - Lightweight Directory Access Protocol
     NSG: Network Security Group
     PaaS: Platform as a Service
     RDP - Remote Desktop Protocol
@@ -16,23 +29,22 @@ Acronyms-
     SLA: Service Level Agreement
     SKU: Stock Keeping Unit
     SSH: Secure Shell
+    TCO - Total Cost of Ownership
     VM: Virtual Machine
     VM SKU: Virtual Machine Stock Keeping Unit
     VMSS: Virtual Machine Scale Set
     VNET: Virtual Network
+    WAF - Web Application Firewall
+    WVD - Windows Virtual Desktop
 
-Compute Abbreviations:
 
-    AKS: Azure Kubernetes Service
-    ACI: Azure Container Instances
+
     App Service: Azure App Service
     AVS: Azure Virtual Desktop
     EBS - Elastic Block Storage
     ECS - Elastic Container Service
-    ACS - Azure Container Service
     EKS - Elastic Kubernetes Service
 
-Storage Abbreviations:
 
     Blob Storage: Azure Binary Large Object.
     ADLS: Azure Data Lake Storage
@@ -43,17 +55,12 @@ Storage Abbreviations:
     EFS - Elastic File System
     ETL - Extract, Transform, Load
 
-Database Abbreviations:
 
     SQL Database: Azure SQL Database (Structured Query Language)
     Cosmos DB: Azure Cosmos Database 
     MySQL: My Structured Query Language for Azure Database
     RDBMS - Relational Database Management System
 
-Networking Abbreviations:
-
-    HTTP - Hypertext Transfer Protocol
-    HTTPS - Hypertext Transfer Protocol Secure
     VNET: Virtual Network 
     NSG: Network Security Group 
     ILB: Internal Load Balancer 
@@ -64,7 +71,6 @@ Networking Abbreviations:
     CNI - Container Network Interface
     IP - Internet Protocol
 
-Security Abbreviations:
 
     RBAC: Role-Based Access Control
     MFA: Multi-Factor Authentication
@@ -76,32 +82,16 @@ Security Abbreviations:
     SSO - Single Sign-On
     SSL - Secure Sockets Layer
     ATP - Advanced Threat Protection
-    AIP - Azure Information Protection
-
-Management Abbreviations:
-
-    ARM: Azure Resource Manager 
-    Azure Portal: Web-based interface for managing Azure resources
+ 
+  
     IAM - Identity and Access Management
     PIM- Privileged Identity Management
-    AAD - Azure Active Directory
+
     OMS - Operations Management Suite
-
-Regulation Abbreviations:
-
-    GDPR - General Data Protection Regulation
     HIPAA - Health Insurance Portability and Accountability Act
     ISO - International Organization for Standardization
 
-Other Microsoft Azure abbreviations:
-
-    AI - Artificial Intelligence
-    AIOps - Artificial Intelligence for IT Operations
-    AMQP - Advanced Message Queuing Protocol
-    APIM - Azure API Management
-    ATA - Advanced Threat Analytics
-    ASR - Azure Site Recovery
-    AZ - Azure
+   
     BCDR - Business Continuity and Disaster Recovery
     CMK - Customer Managed Key
     CI/CD - Continuous Integration/Continuous Deployment
@@ -112,13 +102,11 @@ Other Microsoft Azure abbreviations:
     IoT - Internet of Things
     JSON - JavaScript Object Notation
     LB - Load Balancer
-    LDAP - Lightweight Directory Access Protocol
     ML - Machine Learning
     MSP - Managed Service Provider
     MSSQL - Microsoft SQL Server
     NLP - Natural Language Processing
     SDK - Software Development Kit
     SRE - Site Reliability Engineering
-    TCO - Total Cost of Ownership
-    WAF - Web Application Firewall
-    WVD - Windows Virtual Desktop
+
+  
